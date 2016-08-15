@@ -1,16 +1,16 @@
-typography_spectrum: 0.9331149437930435
+typography_spectrum: 0.761928248917684
 color:
-  brandStrength: 0.13887815945781767
-  lightness: 0.08713400107808411
-  saturation: 0.950387027580291
-  rhythmicContrast: 0.3468414859380573
+  brandStrength: 0.5502413061913103
+  lightness: 0.8913779389113188
+  saturation: 0.6008000178262591
+  rhythmicContrast: 0.6613020487129688
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.8988292794674635
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+layout_spectrum: 0.6712644302751869
 name: Nadia Rabosio
 title: Natural Woman
 description: nrbijoux.co.uk
