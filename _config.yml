@@ -1,16 +1,16 @@
-typography_spectrum: 0.9331149437930435
+typography_spectrum: 0.9612071681767702
 color:
-  brandStrength: 0.13887815945781767
-  lightness: 0.08713400107808411
-  saturation: 0.950387027580291
-  rhythmicContrast: 0.3468414859380573
+  brandStrength: 0.43665410904213786
+  lightness: 0.9829474196303636
+  saturation: 0.5404670750722289
+  rhythmicContrast: 0.8779643820598722
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.8988292794674635
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+layout_spectrum: 0.20560778328217566
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/09a84841-6d57-42f4-88eb-309210179bfd.svg
 name: Nadia Rabosio
